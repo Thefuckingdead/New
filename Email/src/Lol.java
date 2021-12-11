@@ -6,7 +6,7 @@ public class Lol {
 		// Luyen ArrayList vs ten cac tuong Lol
 		ArrayList<String> Lol = new ArrayList<String>();
 		Lol.add("Yasuo");
-		Lol.add("Zed");
+		Lol.add("Ret");
 		Lol.add("Leesin");
 		Lol.add("Yone");
 		for(String i : Lol) {
@@ -15,3 +15,4 @@ public class Lol {
 	}
 
 }
+
